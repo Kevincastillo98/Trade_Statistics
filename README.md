@@ -8,7 +8,7 @@ Este repositorio contiene los avances y material de estudio del curso
 
 | **Modulo**  | **Tema**  | 
 |---|---|
-|  Introducción | ![Introduction inicial]()   |        
+|  Introducción | ![Introduction]()   |        
 |  Modulo 1 | ![Conceptual Framework]()   |         
 |  Modulo 2 | ![Institutional Arrangements]()   |
 |  Modulo 3 | ![Production and Compilation]() |
