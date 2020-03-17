@@ -8,9 +8,9 @@ Este repositorio contiene los avances y material de estudio del curso
 
 | **Modulo**  | **Tema**  | 
 |---|---|
-|  Introducción | ![Introduction]()   |        
+|  Introducción | ![Introduction](https://github.com/Kevincastillo98/Trade_Statistics/tree/master/Curso/Introducion)   |        
 |  Modulo 1 | ![Conceptual Framework](https://github.com/Kevincastillo98/Trade_Statistics/blob/master/Curso/Modulo_1/M1_PM_IMTS.pdf)   |         
-|  Modulo 2 | ![Institutional Arrangements]()   |
+|  Modulo 2 | ![Institutional Arrangements](https://github.com/Kevincastillo98/Trade_Statistics/blob/master/Curso/Modulo_2/M2_MP_IMTS.pdf)   |
 |  Modulo 3 | ![Production and Compilation]() |
 |  Modulo 4 | ![Metadata and Quality]()|
 |  Modulo 5 | ![Dissemination and Analysis]()|
